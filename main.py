@@ -2,7 +2,7 @@
 """
 
 
-@author: Sanjana
+@author: Sans08
 """
 
 from tohgame import Game
