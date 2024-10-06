@@ -2,7 +2,7 @@
 """
 
 
-@author: Sanjana
+@author: Sans08
 """
 
 import pygame
